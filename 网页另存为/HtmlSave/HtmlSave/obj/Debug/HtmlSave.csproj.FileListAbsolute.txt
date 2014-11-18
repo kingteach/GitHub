@@ -1,0 +1,8 @@
+E:\SkyVsts\MyTest\TEST\网页另存为\HtmlSave\HtmlSave\bin\Debug\HtmlSave.exe.config
+E:\SkyVsts\MyTest\TEST\网页另存为\HtmlSave\HtmlSave\bin\Debug\HtmlSave.exe
+E:\SkyVsts\MyTest\TEST\网页另存为\HtmlSave\HtmlSave\bin\Debug\HtmlSave.pdb
+E:\SkyVsts\MyTest\TEST\网页另存为\HtmlSave\HtmlSave\obj\Debug\HtmlSave.Properties.Resources.resources
+E:\SkyVsts\MyTest\TEST\网页另存为\HtmlSave\HtmlSave\obj\Debug\HtmlSave.csproj.GenerateResource.Cache
+E:\SkyVsts\MyTest\TEST\网页另存为\HtmlSave\HtmlSave\obj\Debug\HtmlSave.exe
+E:\SkyVsts\MyTest\TEST\网页另存为\HtmlSave\HtmlSave\obj\Debug\HtmlSave.pdb
+E:\SkyVsts\MyTest\TEST\网页另存为\HtmlSave\HtmlSave\obj\Debug\HtmlSave.FrmMain.resources

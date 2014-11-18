@@ -1,0 +1,17 @@
+E:\SkyVsts\MyTest\TEST\网页另存为\HtmlSave\HtmlSave\bin\Release\HtmlSave.exe.config
+E:\SkyVsts\MyTest\TEST\网页另存为\HtmlSave\HtmlSave\bin\Release\HtmlSave.exe
+E:\SkyVsts\MyTest\TEST\网页另存为\HtmlSave\HtmlSave\bin\Release\HtmlSave.pdb
+E:\SkyVsts\MyTest\TEST\网页另存为\HtmlSave\HtmlSave\obj\Release\HtmlSave.FrmMain.resources
+E:\SkyVsts\MyTest\TEST\网页另存为\HtmlSave\HtmlSave\obj\Release\HtmlSave.Properties.Resources.resources
+E:\SkyVsts\MyTest\TEST\网页另存为\HtmlSave\HtmlSave\obj\Release\HtmlSave.csproj.GenerateResource.Cache
+E:\SkyVsts\MyTest\TEST\网页另存为\HtmlSave\HtmlSave\obj\Release\HtmlSave.exe
+E:\SkyVsts\MyTest\TEST\网页另存为\HtmlSave\HtmlSave\obj\Release\HtmlSave.pdb
+E:\SkyVsts\MyTest\1.网页另存为\HtmlSave\HtmlSave\bin\Release\HtmlSave.exe.config
+E:\SkyVsts\MyTest\1.网页另存为\HtmlSave\HtmlSave\obj\Release\HtmlSave.exe
+E:\SkyVsts\MyTest\1.网页另存为\HtmlSave\HtmlSave\obj\Release\HtmlSave.pdb
+E:\SkyVsts\MyTest\1.网页另存为\HtmlSave\HtmlSave\bin\Release\HtmlSave.exe
+E:\SkyVsts\MyTest\1.网页另存为\HtmlSave\HtmlSave\bin\Release\HtmlSave.pdb
+E:\SkyVsts\MyTest\1.网页另存为\HtmlSave\HtmlSave\obj\Release\HtmlSave.csprojResolveAssemblyReference.cache
+E:\SkyVsts\MyTest\1.网页另存为\HtmlSave\HtmlSave\obj\Release\HtmlSave.FrmMain.resources
+E:\SkyVsts\MyTest\1.网页另存为\HtmlSave\HtmlSave\obj\Release\HtmlSave.Properties.Resources.resources
+E:\SkyVsts\MyTest\1.网页另存为\HtmlSave\HtmlSave\obj\Release\HtmlSave.csproj.GenerateResource.Cache
